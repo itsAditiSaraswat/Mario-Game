@@ -1,0 +1,24 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+  margin: auto;
+}
+/* .coinsDiv {
+  position: absolute;
+  top: 20px;
+  left: 500px;
+  background: rgba(10, 10, 10, 0.3);
+  border-radius: 20px;
+  padding: 5px;
+  display: flex;
+  font-size: 40px;
+  align-items: center;
+}
+.coinsDiv img {
+  height: 50px;
+  width: 50px;
+  margin-right: 20px;
+} */
